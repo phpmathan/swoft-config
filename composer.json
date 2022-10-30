@@ -11,9 +11,9 @@
   "homepage": "https://github.com/swoft-cloud/swoft-config",
   "license": "Apache-2.0",
   "require": {
-    "php": ">7.1",
-    "vlucas/phpdotenv": "^3.4",
-    "symfony/yaml": "^4.3",
+    "php": ">=8.1",
+    "vlucas/phpdotenv": "^5.5",
+    "symfony/yaml": "^6.1",
     "swoft/stdlib": "~2.0.0"
   },
   "autoload": {
